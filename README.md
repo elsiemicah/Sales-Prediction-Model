@@ -50,7 +50,7 @@ python sales_prediction.py
 
 ## Kaggle Notebook
 
-For a more detailed analysis and implementation, please refer to the Kaggle notebook available [here](link_to_kaggle_notebook).
+For a more detailed analysis and implementation, please refer to the Kaggle notebook available [here](https://www.kaggle.com/code/elsiemicah/sales-prediction-model).
 
 ## License
 
